@@ -1,0 +1,2 @@
+Sparse Object tracking using the principles of Optical flow and Lucas-Kanade alogorithm.Important and prominent features are detected using Shi Thomasi Corner dectection method(goodFeaturestoTrack)
+and are then tracked using the Lucas-Kanade optical flow method(calcOpticalFlowPyrLK)
